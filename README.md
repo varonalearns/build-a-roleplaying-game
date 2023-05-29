@@ -60,7 +60,7 @@ Happy Coding!
 
 ### Links
 
-- Solution URL: [Github Repo]()
+- Solution URL: [Github Repo](https://github.com/varonalearns/build-a-roleplaying-game)
 - Live Site URL: [Netlify Live Site]()
 
 ## Author
