@@ -1,7 +1,7 @@
-# Scrimba - The Frontend Developer Career Path - Module 7 Next-level JavaScript Intro - Build a role-playing game
+# Scrimba - The Frontend Developer Career Path - Module 7 Next-level JavaScript Intro - Build a roleplaying game
 
 ## Table of contents
-- [Scrimba - The Frontend Developer Career Path - Module 7 Next-level JavaScript Intro - Build a role-playing game](#scrimba---the-frontend-developer-career-path---module-7-next-level-javascript-intro---build-a-role-playing-game)
+- [Scrimba - The Frontend Developer Career Path - Module 7 Next-level JavaScript Intro - Build a roleplaying game](#scrimba---the-frontend-developer-career-path---module-7-next-level-javascript-intro---build-a-roleplaying-game)
   - [Table of contents](#table-of-contents)
   - [Quick start:](#quick-start)
   - [About Scrimba](#about-scrimba)
